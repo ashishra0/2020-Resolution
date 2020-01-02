@@ -7,3 +7,4 @@
 - [ ] Advanced Shell Scripting
 - [ ] Message Brokers
 - [ ] JRuby
+- [ ] Nginx
